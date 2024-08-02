@@ -102,23 +102,27 @@ Ganache allows you to view block and transaction details, including gas usage an
 ### Running the Project
 
 1. **Setup Ganache:** Load the Ganache workspace and ensure accounts are funded with test Ether.
+
 2. **Run `ganache_test.py`:** Confirm the connection to Ganache by executing the following command in the terminal/bash:
 
-```bash
-   python ganache_test.py
-```
+    ```bash
+    python ganache_test.py
+    ```
 
-- **Ganache Test Printout:** ![Ganache Test Printout](Screenshots/GanacheTestPrintout.png)
+    - **Ganache Test Printout:**  
+      ![Ganache Test Printout](Screenshots/GanacheTestPrintout.png)
 
-3. Start Streamlit Application: Launch the Streamlit app to interact with KryptoJobs2Go.
+3. **Start Streamlit Application:** Launch the Streamlit app to interact with KryptoJobs2Go.
 
-```bash
-streamlit run krypto_jobs.py
-```
+    ```bash
+    streamlit run krypto_jobs.py
+    ```
 
-- **Streamlit App Printout:** ![Streamlit App Printout](Screenshots/StreamlitAppPrintout.png)
+    - **Streamlit App Printout:**  
+      ![Streamlit App Printout](Screenshots/StreamlitAppPrintout.png)
 
 4. Execute Transactions: Use the Streamlit app to select candidates and send transactions. Verify transactions in Ganache.
+
 5. Check Ganache: View transactions in the Ganache interface to ensure the correct execution of payments.
    
    - **Balance Overview:** ![Ganache Balance Overview](Screenshots/GanacheBalance.png)
