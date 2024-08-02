@@ -42,28 +42,28 @@ w3 = Web3(Web3.HTTPProvider("http://127.0.0.1:7545"))
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xe053877eb8030F69f2196E79D9b2F3bAB31E6768",
+        "0x37667E906467542767e5A29c4009F66907c5ea81",
         "4.3",
         0.20,
         "Images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
-        "0x7baD94ACFe908305b1Eab6Fa2B553C65591ffbFc",
+        "0xFDbFC0A0f012FaA5cc7f5ad2527104b6FDe56135",
         "5.0",
         0.33,
         "Images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
-        "0x89cAB90F9a74e634AAad3952C6B7eA974F5224fF",
+        "0x0db023D88EdE2E22B426373A6044D7058d6960ef",
         "4.7",
         0.19,
         "Images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
-        "0x8B7fE5520b7898fC082200fbF84e9f5D0072258B",
+        "0x75546e8363a1F5b620CC7BD3bF451286254F9cec",
         "4.1",
         0.16,
         "Images/kendall.jpeg",
